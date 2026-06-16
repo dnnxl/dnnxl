@@ -4,7 +4,7 @@ Based in Costa Rica 🇨🇷, I'm a PhD Student in Artificial Intelligence and H
 
 Outside of my research life, I'm simply a curious builder who enjoys exploring ideas, hiking, taking long walks 🌄, and enjoying the views that clear my head and spark new ideas 💡 along with tea and more unfinished side projects than I'd like to admit.
 
-I enjoy creating things that can help people, whether that's open-source tools 🐙, community initiatives 🤝, benchmarking efforts, or experiments born from *"what if we tried this?"* conversations.
+I enjoy creating things that can help people, whether that's open-source tools, community initiatives, benchmarking efforts, or experiments born from *"what if we tried this?"* conversations.
 
 When I'm not doing research, you'll probably find me volunteering in IEEE communities ⚡, helping organize technology and science events, mentoring students, leading community-driven projects, hiking in the mountains 🏔️, traveling, or photographing nature. Many of my most valuable opportunities, collaborations, and friendships have grown from community spaces.
 
