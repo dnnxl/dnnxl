@@ -1,8 +1,8 @@
 ## 👋 Hi, I'm Danny 🌟
 
-Based in Costa Rica 🇨🇷, I'm a PhD Student in Artificial Intelligence and High-Performance Computing at the University of Luxembourg 🇱🇺. My research focuses on multimodal AI, foundation models, and trustworthy machine learning, with a particular interest in building effective systems under limited data and resource constraints.
+Based in Costa Rica 🇨🇷 with roots from Hong Kong 🇭🇰, I'm a PhD Student in Artificial Intelligence and High-Performance Computing at the University of Luxembourg 🇱🇺. My research focuses on multimodal AI, foundation models, and trustworthy machine learning, with a particular interest in building effective systems under limited data and resource constraints.
 
-Outside of my research life, I'm simply a curious builder who enjoys exploring ideas, hiking, taking long walks 🌄, and enjoying the views that clear my head and spark new ideas 💡 along with tea and more unfinished side projects than I'd like to admit.
+Outside of my research life, I'm simply a curious builder who enjoys exploring ideas, hiking, taking long walks 🌄, and enjoying the views that clear my head and spark new ideas 💡 along with tea or maybe coffee, and more unfinished side projects than I'd like to admit.
 
 I enjoy creating things that can help people, whether that's open-source tools, community initiatives, benchmarking efforts, or experiments born from *"what if we tried this?"* conversations.
 
